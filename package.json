@@ -1,5 +1,5 @@
 {
-  "name": "node-cookie",
+  "name": "app-cookie",
   "version": "0.0.1",
   "description": "A small library for setting/getting/removing cookies.",
   "files": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/virgel1995/node-cookie.git"
+    "url": "git+https://github.com/virgel1995/app-cookie.git"
   },
   "keywords": [
     "cookie"
@@ -25,9 +25,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/virgel1995/node-cookie/issues"
+    "url": "https://github.com/virgel1995/app-cookie/issues"
   },
-  "homepage": "https://clony.vercel.app/doc/node-cookie",
+  "homepage": "https://clony.vercel.app/doc/app-cookie",
   "dependencies": {
     "true-domain": "^0.1.0"
   },

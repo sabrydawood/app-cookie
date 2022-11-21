@@ -1,24 +1,23 @@
-# node-cookie
+# app-cookie
 
 A small library for setting/getting/removing cookies.
 
-[![Dependency Status](https://david-dm.org/virgel1995/node-cookie/status.svg?style=flat)](https://david-dm.org/virgel1995/node-cookie)
-[![Build Status](https://travis-ci.org/virgel1995/node-cookie.svg?branch=master)](https://travis-ci.org/virgel1995/node-cookie)
-[![npm version](https://badge.fury.io/js/node-cookie.svg)](http://badge.fury.io/js/node-cookie)
+
+[![npm version](https://badge.fury.io/js/app-cookie.svg)](http://badge.fury.io/js/app-cookie)
 
 
 ## Installation
 
 ```
-npm install node-cookie
-yarn add node-cookie
+npm install app-cookie
+yarn add app-cookie
 ```
 
 
 ## Usage
 
 ```js
-var cookie = require('node-cookie');
+var cookie = require('app-cookie');
 
 cookie.set('foo', 'bar');
 console.log(cooke.get('foo'));
